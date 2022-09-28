@@ -8,3 +8,5 @@ data has duplicated values(9)
 name of columns must be changed to understand
 column(Bare Nuclei )should be change to int
 also, column (Bare Nuclei)has wrong value is ? should change
+# model 
+we used K nearst neighbour algorithm
